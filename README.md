@@ -1,2 +1,2 @@
 # Numbers-of-students-studying-abroad-new-students
-Data visualization of the number of students studying abroad - new students in 2015-2018
+Visualizing data for international students - Freshman enrollment in 2015-2018
